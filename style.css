@@ -18,8 +18,8 @@
 .section-primary-white
 {
     background-color: var(--primary-text);
-    width: 300px;
-    height: 300px;
+    width: 320px;
+    height: 320px;
     display: flex;
     flex-direction: row;
     text-align: center;
@@ -231,4 +231,10 @@ background: #070707a4;
     width: 100%;
     border-bottom: 1px solid var(--tertiary-text);
     padding-bottom: 10px;
+}
+/* footer */
+.custom-foot-icon
+{
+    background-color: var(--Orange-text);
+    color: var(--secondary-color);
 }
