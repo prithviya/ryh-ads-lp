@@ -7,6 +7,15 @@
     --tertiary-text: #9F9F9F;
     --Orange-text: #FF6309;
 }
+.body
+{
+    scroll-behavior: smooth;
+    
+}
+.text-justify
+{
+    text-align: justify;
+}
 .section-sec-bg
 {
     background: var(--primary-color);
