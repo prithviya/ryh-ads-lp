@@ -92,8 +92,9 @@
 }
 .uk-nav-default>li.uk-active>a::before
 {
-    content: "\f099";
-    font-weight: bold;
+    content: ">";
+    font-weight: bolder;
+    margin-top: -2px;
 }
 .uk-nav-default>li>a
 {
