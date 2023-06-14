@@ -248,3 +248,8 @@ background: #070707a4;
     background-color: var(--Orange-text);
     color: var(--secondary-color);
 }
+/* contact */
+.contact_form
+{
+    background: rgba(212, 212, 212, 0.3);
+}
